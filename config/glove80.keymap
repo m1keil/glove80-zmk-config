@@ -75,8 +75,9 @@
             bindings = <&kp>, <&kp>;
 
             #binding-cells = <2>;
-            flavor = "balanced";
-            tapping-term-ms = <200>;
+            flavor = "tap-unless-interrupted";
+            tapping-term-ms = <230>;
+            quick-tap-ms = <150>;
         };
     };
 
