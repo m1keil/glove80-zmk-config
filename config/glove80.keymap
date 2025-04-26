@@ -151,8 +151,8 @@
 &kp GRAVE   &kp N1     &kp N2        &kp N3    &kp N4          &kp N5                                                                      &kp N6  &kp N7          &kp N8     &kp N9    &kp N0     &kp MINUS
 &kp TAB     &kp Q      &kp W         &kp E     &kp R           &kp T                                                                       &kp Y   &kp U           &kp I      &kp O     &kp P      &kp BSLH
 &kp ESCAPE  &kp A      &kp S         &kp D     &hml_layer 1 F  &kp G                                                                       &kp H   &hmr_layer 1 J  &kp K      &kp L     &kp SEMI   &kp SQT
-&kp EQUAL   &kp Z      &kp X         &kp C     &kp V           &kp B   &none          &none      &none     &none     &none      &kp ENTER  &kp N   &kp M           &kp COMMA  &kp DOT   &kp FSLH   &none
-&magic 2 0  &kp LCTRL  &kp LEFT_ALT  &kp LGUI  &layer_td               &kp BACKSPACE  &kp LSHFT  &kp LGUI  &kp RGUI  &kp RSHFT  &kp SPACE          &layer_td       &kp LGUI   &kp LALT  &kp LCTRL  &none
+&none       &kp Z      &kp X         &kp C     &kp V           &kp B   &none          &none     &none      &none      &none     &kp ENTER  &kp N   &kp M           &kp COMMA  &kp DOT   &kp FSLH   &kp EQUAL
+&magic 2 0  &kp LCTRL  &kp LEFT_ALT  &kp LGUI  &layer_td               &kp BACKSPACE  &kp LGUI  &kp LSHFT  &kp RSHFT  &kp RGUI  &kp SPACE          &layer_td       &kp LGUI   &kp LALT  &kp LCTRL  &none
             >;
         };
 
